@@ -1,6 +1,6 @@
 # 📊 Análisis de Datos aplicado a decisiones de negocio
 
-👋 Mi nombre es Matias Galosi.
+👋 Mi nombre es Matias Galosi.  
 Soy **Ingeniero Industrial** con formación en **Data Analytics y Data Science**.  
 Trabajo con datos reales para responder **preguntas concretas de negocio**, mejorar procesos
 y apoyar la **toma de decisiones basada en evidencia**.
