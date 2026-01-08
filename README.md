@@ -51,23 +51,35 @@ explica mejor el problema.
 
 ### 🏎️ Análisis de datos de Fórmula 1
 Análisis exploratorio y descriptivo sobre resultados, rendimiento y variables
-relevantes en competencias de Fórmula 1.
+relevantes en competencias de Fórmula 1 período 1950-2024.
 
 **Enfoque:**
 - Limpieza y transformación de datos  
 - Análisis estadístico  
-- Visualización para extracción de insights  
+- Visualización para extracción de insights
+
+**Hipótesis/Preguntas de Interés:**
+
+1) Los pilotos que largan desde la pole position (posición 1) tienen una probabilidad significativamente mayor de ganar la carrera.
+2) Los equipos con mayor presupuesto (como Ferrari, Mercedes y Red Bull) concentran la mayoría de los campeonatos de pilotos y constructores en las últimas dos décadas.
+3) La cantidad de abandonos por carrera ha disminuido con el tiempo debido a la mejora en la fiabilidad de los autos.
 
 ---
 
 ### ⛽ Análisis de precios de combustibles
-Estudio del comportamiento del precio de los combustibles a lo largo del tiempo,
-con foco en variaciones, tendencias y posibles impactos económicos.
+Estudio del comportamiento del precio de los combustibles en Argentina en el período 2016-2024,
+con foco en variaciones y tendencias.
 
-**Enfoque:**
-- Series temporales  
-- Análisis de variaciones de precios  
-- Interpretación económica de los datos  
+**Enfoque:** 
+- Limpieza y transformación de datos  
+- Análisis de variaciones de precios por tipo de combustible y de provincia
+- Entrenamiento de modelo de predicción de precio utilizando machine learning
+
+**Hipótesis/Preguntas de Interés:**
+
+1) Los precios presentan una tendencia creciente sostenida a lo largo de los años.
+2) Existe una brecha sistemática de precios entre provincias del interior y AMBA.
+3) La Nafta Premium muestra mayor variación relativa, mientras que el Gasoil común es más estable.
 
 ---
 
