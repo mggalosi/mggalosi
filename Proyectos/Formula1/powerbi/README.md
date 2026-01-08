@@ -1,0 +1,1 @@
+- Screenshots del dashboard desarrollado en **Power BI** para el análisis exploratorio de resultados históricos de Fórmula 1.

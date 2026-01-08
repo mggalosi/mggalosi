@@ -1,0 +1,3 @@
+- Dataset histórico de Fórmula 1 utilizado para el análisis.
+- El mismo contaba con varias planillas, las cuales fueron concatenadas en una sola base integrada.
+- Fuente pública --> Kaggle
