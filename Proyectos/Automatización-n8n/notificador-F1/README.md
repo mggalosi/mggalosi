@@ -1,6 +1,6 @@
 # 🏎️ Notificador de F1 — Integración API + Telegram
 
-**Stack:** n8n · Jolpica API · Telegram Bot
+**Stack:** ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Jolpica API](https://img.shields.io/badge/Jolpica_API-FF1801?style=flat&logo=formula1&logoColor=white) ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 **Tipo:** Workflow personal · Patrón de integración reutilizable
 
 ---

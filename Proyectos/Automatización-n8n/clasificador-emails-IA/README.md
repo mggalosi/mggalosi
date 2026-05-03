@@ -1,6 +1,6 @@
 # 📧 Clasificador de emails con IA
 
-**Stack:** n8n · Google Gemini · Gmail API · Google Sheets
+**Stack:** ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat&logo=gmail&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 **Tipo:** Arquitectura de referencia (adaptable a cualquier cliente)
 
 ---

@@ -8,7 +8,7 @@ Workflows de automatización de procesos que combinan integraciones con APIs, l�
 
 ### 📧 [Clasificador de emails con IA](./clasificador-emails-IA/)
 
-**Stack:** n8n · Google Gemini · Gmail API · Google Sheets
+**Stack:** ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat&logo=gmail&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 Workflow de clasificación automática de correos entrantes usando un AI Agent con Gemini. Cada email se analiza por remitente, asunto y cuerpo, y se clasifica en cuatro categorías con un score de confianza asociado.
 
@@ -23,7 +23,7 @@ Workflow de clasificación automática de correos entrantes usando un AI Agent c
 
 ### 🏎️ [Notificador de F1](./notificador-F1/)
 
-**Stack:** n8n · Jolpica API · Telegram Bot
+**Stack:** ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Jolpica API](https://img.shields.io/badge/Jolpica_API-FF1801?style=flat&logo=formula1&logoColor=white) ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 Workflow personal que demuestra el patrón más común en automatización: **consultar fuente externa → aplicar lógica de negocio → disparar notificación**. Maneja weekends estándar y de Sprint.
 

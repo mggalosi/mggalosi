@@ -35,9 +35,9 @@ Cada proyecto termina con recomendaciones concretas — no con reportes para arc
 
 | Área | Stack |
 |---|---|
-| Análisis y ciencia de datos | Excel · Python · SQL · Power BI |
-| Automatización | n8n |
-| Versionado | Git · GitHub |
+| Análisis y ciencia de datos | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| Automatización | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) |
+| Versionado | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
 

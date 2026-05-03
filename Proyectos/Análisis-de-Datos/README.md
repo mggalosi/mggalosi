@@ -18,7 +18,7 @@ Análisis integral de los datos operativos de un centro de entrenamiento durante
 - Ocupación global del 47%: margen de crecimiento sin ampliar infraestructura
 - 1 producto concentra el 51% del volumen total de ventas
 
-**Stack:** Python · Pandas · Matplotlib · Seaborn
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
 → [Ver análisis completo](./FORZA-diagnostico-operacional/)
 
@@ -37,6 +37,6 @@ Análisis exploratorio sobre resultados y rendimiento en 70+ años de competenci
 2. Los equipos con mayor presupuesto concentran la mayoría de los campeonatos en las últimas dos décadas
 3. La cantidad de abandonos por carrera ha disminuido con el tiempo por mejoras en la fiabilidad
 
-**Stack:** Excel · Power BI
+**Stack:** ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 → [Ver análisis](./Formula1/)

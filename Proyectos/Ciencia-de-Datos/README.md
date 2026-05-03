@@ -17,6 +17,6 @@ Estudio de comportamiento de precios por tipo de combustible y por provincia a l
 2. Existe una brecha sistemática de precios entre provincias del interior y AMBA
 3. La Nafta Premium muestra mayor variación relativa, mientras que el Gasoil común es más estable
 
-**Stack:** Python · Pandas · Scikit-learn · Matplotlib
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 → [Ver análisis](./precio-combustibles-ARG/)

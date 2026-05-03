@@ -1,7 +1,7 @@
 # ⛽ Análisis y Predicción de Precios de Combustibles en Argentina (2017–2026)
 
 **Proyecto Final — Data Science 2: Machine Learning para la Ciencia de Datos**  
-👤 Autor: Galosi | 🏫 Curso: CoderHouse
+**Autor:** Galosi Matias Gabriel &nbsp;|&nbsp; **Institución:** CODERHOUSE &nbsp;|&nbsp; **Año:** 2026
 
 ---
 

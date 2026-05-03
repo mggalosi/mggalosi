@@ -91,9 +91,10 @@ El análisis se estructuró en seis ejes temáticos:
 
 ## 🛠️ Stack técnico
 
-- **Python** — análisis exploratorio, segmentación y visualizaciones
-- **Pandas** — limpieza, transformación y cruces entre datasets
-- **Matplotlib / Seaborn** — gráficos, heatmaps y análisis de cohortes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 

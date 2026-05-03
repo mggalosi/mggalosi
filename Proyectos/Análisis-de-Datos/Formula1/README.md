@@ -2,7 +2,7 @@
 ### Dashboard interactivo en Power BI
 
 **Proyecto Final — Data Analytics**
-**Autor:** Galosi Matias Gabriel &nbsp;|&nbsp; **Institución:** CoderHouse &nbsp;|&nbsp; **Año:** 2025
+**Autor:** Galosi Matias Gabriel &nbsp;|&nbsp; **Institución:** CODERHOUSE &nbsp;|&nbsp; **Año:** 2025
 
 ---
 
@@ -105,10 +105,10 @@ Entre las principales medidas calculadas se destacan:
 | Herramienta | Uso |
 |-------------|-----|
 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) | Visualización e interactividad del dashboard |
-| **DAX** | Medidas calculadas y KPIs |
+| ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black) | Medidas calculadas y KPIs |
 | **Modelo Relacional** | Integración y estructura de las 14 tablas |
-| **MIRO** | Diseño del Diagrama Entidad-Relación |
-| **Excel / CSV** | Fuentes de datos originales |
+| ![MIRO](https://img.shields.io/badge/MIRO-FFD02F?style=flat&logo=miro&logoColor=050038) | Diseño del Diagrama Entidad-Relación |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) | Fuentes de datos originales |
 
 ---
 
