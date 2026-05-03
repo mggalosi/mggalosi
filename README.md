@@ -47,9 +47,9 @@ El repositorio está organizado en tres categorías. Cada una tiene su propio í
 
 | Categoría | Descripción |
 |---|---|
-| [📊 Análisis de datos](./Proyectos/Análisis-de-Datos/) | Proyectos con clientes reales y exploración sobre datasets de dominio público |
-| [🔬 Ciencia de datos](./Proyectos/Ciencia-de-Datos/) | Modelos predictivos, hipótesis y análisis estadístico |
-| [⚙️ Automatización n8n](./Proyectos/Automatización-n8n/) | Workflows de automatización de procesos con IA integrada |
+| [📊 Análisis de datos](./Proyectos/Análisis%20de%20Datos/) | Proyectos con clientes reales y exploración sobre datasets de dominio público |
+| [🔬 Ciencia de datos](./Proyectos/Ciencia%20de%20Datos/) | Modelos predictivos, hipótesis y análisis estadístico |
+| [⚙️ Automatización n8n](./Proyectos/Automatización%20n8n/) | Workflows de automatización de procesos con IA integrada |
 
 ---
 

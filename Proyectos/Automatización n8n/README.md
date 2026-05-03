@@ -6,7 +6,7 @@ Workflows de automatización de procesos que combinan integraciones con APIs, l�
 
 ## 📁 Workflows
 
-### 📧 [Clasificador de emails con IA](./clasificador-emails-IA/)
+### 📧 [Clasificador de emails con IA](./Clasificador%20Emails%20IA/)
 
 **Stack:** ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat&logo=gmail&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
@@ -17,11 +17,11 @@ Workflow de clasificación automática de correos entrantes usando un AI Agent c
 - Fallback automático a `revisar_manual` cuando la confianza es menor a 0.7
 - Error trigger independiente que no interrumpe el flujo principal
 
-→ [Ver arquitectura y documentación](./clasificador-emails-IA/)
+→ [Ver arquitectura y documentación](./Clasificador%20Emails%20IA/)
 
 ---
 
-### 🏎️ [Notificador de F1](./notificador-F1/)
+### 🏎️ [Notificador de F1](./Notificador%20F1/)
 
 **Stack:** ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Jolpica API](https://img.shields.io/badge/Jolpica_API-FF1801?style=flat&logo=formula1&logoColor=white) ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
@@ -32,7 +32,7 @@ Workflow personal que demuestra el patrón más común en automatización: **con
 - Avisos de vencimiento de contratos o paquetes
 - Monitoreo de cambios en APIs o fuentes externas
 
-→ [Ver arquitectura y documentación](./notificador-F1/)
+→ [Ver arquitectura y documentación](./Notificador%20F1/)
 
 ---
 

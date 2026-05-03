@@ -6,7 +6,7 @@ Proyectos de análisis exploratorio, diagnóstico operacional y visualización s
 
 ## 💼 Proyectos con clientes reales
 
-### 🏋️ [FORZA — Diagnóstico operacional 2025](./FORZA-diagnostico-operacional/)
+### 🏋️ [FORZA — Diagnóstico operacional 2025](./FORZA%20diagnostico%20operacional/)
 
 **Berisso, Buenos Aires · Entregado diciembre 2025**
 
@@ -20,7 +20,7 @@ Análisis integral de los datos operativos de un centro de entrenamiento durante
 
 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
-→ [Ver análisis completo](./FORZA-diagnostico-operacional/)
+→ [Ver análisis completo](./FORZA%20diagnostico%20operacional/)
 
 ---
 

@@ -8,7 +8,7 @@ Estos proyectos no tienen cliente — los uso para explorar herramientas y metod
 
 ## 📁 Proyectos
 
-### ⛽ [Precios de combustibles en Argentina (2016–2024)](./Precio-combustibles-ARG/)
+### ⛽ [Precios de combustibles en Argentina (2016–2024)](./Precio%20combustibles%20ARG/)
 
 Estudio de comportamiento de precios por tipo de combustible y por provincia a lo largo de 8 años. Incluye entrenamiento de un modelo predictivo con machine learning.
 
@@ -19,4 +19,4 @@ Estudio de comportamiento de precios por tipo de combustible y por provincia a l
 
 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
-→ [Ver análisis](./Precio-combustibles-ARG/)
+→ [Ver análisis](./Precio%20combustibles%20ARG/)
