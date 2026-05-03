@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Recurse \"d:\\\\Carpetas de usuario\\\\Documentos\\\\Data - IA\\\\mggalosi\\\\Proyectos\\\\Análisis-de-Datos\\\\Formula1\")",
-      "Bash(Select-Object FullName, Name)"
-    ]
-  }
-}
