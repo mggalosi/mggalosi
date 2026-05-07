@@ -55,4 +55,4 @@ El repositorio está organizado en tres categorías. Cada una tiene su propio í
 
 📍 *Berisso, Buenos Aires — trabajo de forma remota con clientes de toda Argentina.*  
 📬 flux.data.ia.26@gmail.com  
-⛓️‍💥 [LinkedIn](in/mggalosi)
+⛓️‍💥 [LinkedIn](www.linkedin.com/in/mggalosi)
