@@ -1,4 +1,4 @@
-# 🏎️ Fórmula 1 Historical Analysis (1950–2024)
+# 🏎️ Fórmula 1 Análisis Histórico (1950–2024)
 
 Dashboard interactivo desarrollado en **Power BI** para analizar más de 70 años de historia de la Fórmula 1, desde la temporada inaugural en 1950 hasta 2024.
 
