@@ -1,37 +1,38 @@
-# 📊 Flux DATA & IA — Portfolio profesional
+# 👋 Hola, soy Matías Galosi
 
-👋 Mi nombre es **Matias Galosi**, soy Ingeniero Industrial con formación en Ciencia de Datos y Automatización.
+Ingeniero Industrial orientado a **Data Analytics, Data Science y Automatización con IA**.
 
-Trabajo bajo la marca **Flux DATA & IA**: análisis de datos y automatización de procesos para empresas y emprendimientos que necesitan tomar decisiones con información real.
+En este GitHub documento proyectos personales y profesionales relacionados con:
 
----
+- 📊 Análisis de Datos
+- 🤖 Automatización de Procesos
+- 🧠 Machine Learning
+- ⚙️ Workflows con IA y n8n
+- 📈 Visualización y Toma de Decisiones
 
-## 🧠 Qué hago
+Me interesa especialmente construir soluciones que conecten:
+**datos + negocio + automatización**.
 
-Ayudo a organizaciones y emprendedores a:
-
-- 📌 Entender qué está pasando con sus datos
-- ⚙️ Detectar ineficiencias operativas y oportunidades de mejora
-- 👥 Segmentar clientes por comportamiento y valor
-- 🤖 Automatizar procesos repetitivos conectando herramientas sin código
-- ✅ Tomar decisiones con números, no con intuición
 
 ---
 
-## 🔎 Cómo trabajo
+## 📂 Sobre este repositorio
 
-Mi enfoque prioriza el **problema antes que la herramienta**.
+Este GitHub funciona como repositorio central de mis proyectos.
 
-1. 🧩 Entiendo el contexto y la pregunta de negocio
-2. 🧹 Evalúo la calidad y las limitaciones de los datos
-3. 📊 Analizo y modelo solo lo necesario
-4. 🗣️ Comunico conclusiones en lenguaje claro y accionable
+Cada carpeta incluye:
 
-Cada proyecto termina con recomendaciones concretas — no con reportes para archivar.
+- Objetivos del Proyecto
+- Datasets
+- Metodología
+- Insights
+- Notebooks
+- Visualizaciones
+- Conclusiones
 
 ---
 
-## 🛠️ Herramientas
+## 🛠️ Stack
 
 | Área | Stack |
 |---|---|
@@ -53,6 +54,6 @@ El repositorio está organizado en tres categorías. Cada una tiene su propio í
 
 ---
 
-📍 *Berisso, Buenos Aires — trabajo de forma remota con clientes de toda Argentina.*  
-📬 flux.data.ia.26@gmail.com  
-⛓️‍💥 [LinkedIn](www.linkedin.com/in/mggalosi)
+📍 Berisso, Buenos Aires  
+📬 galosi.matias@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mggalosi)
