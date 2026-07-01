@@ -42,7 +42,7 @@ El proyecto explora:
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 
-→ [Ver proyecto](./Clasificación de Transcripciones Clínicas/)
+→ [Ver proyecto](./Clasificaci%C3%B3n%20de%20Transcripciones%20Cl%C3%ADnicas/)
 
 
 ### ⛽ Precios de combustibles en Argentina (2016–2024)
